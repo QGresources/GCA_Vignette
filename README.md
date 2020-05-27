@@ -1,2 +1,2 @@
 # GCA_Vignette
-Vignette of GCA package
+The GCA package vignette is available [here](https://qgresources.github.io/GCA_Vignette/GCA.html).
